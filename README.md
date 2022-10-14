@@ -1,4 +1,4 @@
-# Battle of Chaotic Hell
+# Battle of Chaos
 
 Team name: Radical Ascension
 
